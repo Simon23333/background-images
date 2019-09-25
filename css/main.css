@@ -22,14 +22,6 @@ a {
 
 .search-input {
   border-color: #84452f;
-}
-
-.search-btn {
-
-}
-
-.search-input {
-  border-color: #84452f;
   background-image: url("../images/spy-glass.svg");
   background-repeat: no-repeat;
   background-position: .2em center;
